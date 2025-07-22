@@ -18,7 +18,7 @@ Machine Learning · Data Cleaning · Data Visualization · Predictive Modeling �
 
 ## Featured Projects
 
-### [DNA Methylation Age Prediction](https://github.com/michaelpmolloy/dna-age-prediction)
+### [DNA Methylation Age Prediction](https://github.com/michaelpmolloy/Dna-Age-Prediction)
 Used over **450,000 methylation markers** to predict biological age. Compared the accuracy and interpretability of a **neural network** and **elastic net regression**.  
 **Skills:** Deep Learning · Regression · High-Dimensional Data · Model Comparison
 
