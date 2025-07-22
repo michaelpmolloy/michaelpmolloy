@@ -34,7 +34,7 @@ Explored contamination levels in farmed salmon across continents using **PCA**, 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/michael-molloy-85868129b/)
-- Email: [michaelpmolloy1@gmail.com](mailto:michaelpmolloy1@gmail.com)
+- [michaelpmolloy1@gmail.com](mailto:michaelpmolloy1@gmail.com)
 
 <!--
 **michaelpmolloy/michaelpmolloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
