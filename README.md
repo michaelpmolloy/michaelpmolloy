@@ -18,13 +18,13 @@ Machine Learning · Data Cleaning · Data Visualization · Predictive Modeling �
 
 ## Featured Projects
 
-### [DNA Methylation Age Prediction](https://github.com/yourusername/dna-age-prediction)
+### [DNA Methylation Age Prediction](https://github.com/michaelpmolloy/dna-age-prediction)
 Used over **450,000 methylation markers** to predict biological age. Compared the accuracy and interpretability of a **neural network** and **elastic net regression**.  
 **Skills:** Deep Learning · Regression · High-Dimensional Data · Model Comparison
 
 ---
 
-### 🐟 [Global Salmon Contamination Analysis](https://github.com/yourusername/salmon-contamination)
+### 🐟 [Global Salmon Contamination Analysis](https://github.com/michaelpmolloy/salmon-contamination-analysis)
 Explored contamination levels in farmed salmon across continents using **PCA**, **clustering**, and **spatial analysis**.  
 **Skills:** R · Data Visualization · PCA · K-Means Clustering · Environmental Data
 
