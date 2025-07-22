@@ -3,7 +3,7 @@
 **Data Science Graduate** | Based in Perth, Australia 
 Passionate about using data to drive insights, solve real-world problems, and build meaningful tools.  
 
----
+
 
 ## Skills & Tools
 
@@ -18,13 +18,13 @@ Machine Learning · Data Cleaning · Data Visualization · Predictive Modeling �
 
 ## Featured Projects
 
-### [DNA Methylation Age Prediction](https://github.com/michaelpmolloy/Dna-Age-Prediction)
+### [DNA Methylation Age Prediction](https://github.com/michaelpmolloy/Dna-Age-Predictions)
 Used over **450,000 methylation markers** to predict biological age. Compared the accuracy and interpretability of a **neural network** and **elastic net regression**.  
 **Skills:** Deep Learning · Regression · High-Dimensional Data · Model Comparison
 
 ---
 
-### 🐟 [Global Salmon Contamination Analysis](https://github.com/michaelpmolloy/salmon-contamination-analysis)
+### 🐟 [Global Salmon Contamination Analysis](https://github.com/michaelpmolloy/Salmon-Contamination-Analysis)
 Explored contamination levels in farmed salmon across continents using **PCA**, **clustering**, and **spatial analysis**.  
 **Skills:** R · Data Visualization · PCA · K-Means Clustering · Environmental Data
 
