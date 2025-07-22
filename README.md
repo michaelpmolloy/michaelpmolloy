@@ -1,4 +1,4 @@
-## 👋 Hi, im Michael Molloy 
+## 👋 Hi, I'm Michael Molloy 
 
 **Data Science Graduate** | Based in Perth, Australia 
 Passionate about using data to drive insights, solve real-world problems, and build meaningful tools.  
@@ -24,7 +24,7 @@ Used over **450,000 methylation markers** to predict biological age. Compared th
 
 ---
 
-### 🐟 [Global Salmon Contamination Analysis](https://github.com/michaelpmolloy/Salmon-Contamination-Analysis)
+### [Global Salmon Contamination Analysis](https://github.com/michaelpmolloy/Salmon-Contamination-Analysis)
 Explored contamination levels in farmed salmon across continents using **PCA**, **clustering**, and **spatial analysis**.  
 **Skills:** R · Data Visualization · PCA · K-Means Clustering · Environmental Data
 
